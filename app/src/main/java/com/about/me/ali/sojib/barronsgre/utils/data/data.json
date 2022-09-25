@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "levelTitle": "",
+        "words": [
+                {
+                    "id" : "1",
+                    "word": "Abate (v)",
+                    "meaningInEnglish": "Subside , or moderate",
+                    "meaningInBangla": "হ্রাস করা, কমান, প্রশমিত করা",
+                    "meaningInHindi": "হ্রাস করা, কমান, প্রশমিত করা",
+                    "definition":  "To become less strong, or to make something less strong",
+                    "synonyms": "Decline, Subside, weaken, reduce, dwindle",
+                    "antonyms":  "Rase, aggrandize, amplify, augment",
+                    "usages": "It is necessary to make the rain abate before starting to trek in mountainous regions",
+                    "nounForm":  "Abatement",
+                    "mnemonics": "Rebate means discount… i.e reducing the price… abate and rebate are rhyming words",
+                    "notes":  "",
+                    "rating": 0,
+                    "isBookmarked": false
+                }
+        ]
+    }
+]

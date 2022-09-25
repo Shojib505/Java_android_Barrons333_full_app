@@ -1,0 +1,82 @@
+[
+  {
+    "No": 1,
+    "Questions": "What does \"Abate\" mean?",
+    "Option 1": "Subside",
+    "Option 2": "Upside",
+    "Option 3": "Calm",
+    "Answer": "Subside"
+  },
+  {
+    "No": 2,
+    "Questions": "Which of the following is a synonym for \"Abate\"?",
+    "Option 1": "Advance",
+    "Option 2": "Dull",
+    "Option 3": "Develop",
+    "Answer": "Dull"
+  },
+  {
+    "No": 3,
+    "Questions": "Which of the following is an antonym for \"Abate\"?",
+    "Option 1": "Diminish",
+    "Option 2": "Decrease",
+    "Option 3": "Enlarge",
+    "Answer": "Enlarge"
+  },
+  {
+    "No": 4,
+    "Questions": "What is the noun form of the word \"Abate\"?",
+    "Option 1": "Abatement",
+    "Option 2": "Abate",
+    "Option 3": "Abation",
+    "Answer": "Abatement"
+  },
+  {
+    "No": 5,
+    "Questions": "What does \"Aberrant\" mean?",
+    "Option 1": "Normal",
+    "Option 2": "Abnormal",
+    "Option 3": "Regular",
+    "Answer": "Abnormal"
+  },
+  {
+    "No": 6,
+    "Questions": "Which of the following is not a synonym for \"Aberrant\"?",
+    "Option 1": "Abnormal",
+    "Option 2": "Psycho",
+    "Option 3": "Usual",
+    "Answer": "Usual"
+  },
+  {
+    "No": 7,
+    "Questions": "Which of the following is an antonym for \"Aberrant\"?",
+    "Option 1": "Usual",
+    "Option 2": "Deviant",
+    "Option 3": "Insane",
+    "Answer": "Usual"
+  },
+  {
+    "No": 8,
+    "Questions": "What is the verb form of the word \"Aberrant\"?",
+    "Option 1": "Aberrantly",
+    "Option 2": "Aberrate",
+    "Option 3": "Aberration",
+    "Answer": "Aberrate"
+  },
+  {
+    "No": 9,
+    "Questions": "What does \"Admonish\" mean?",
+    "Option 1": "Allow",
+    "Option 2": "Laud",
+    "Option 3": "Reprove",
+    "Answer": "Reprove"
+  },
+  {
+    "No": 10,
+    "Questions": "What does \"Apathy\" mean?",
+    "Option 1": "Care",
+    "Option 2": "Indifference",
+    "Option 3": "Concern",
+    "Answer": "Indifference"
+  }
+]
